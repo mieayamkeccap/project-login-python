@@ -3,6 +3,7 @@
 Project sederhana login dan register menggunakan Python.
 
 ## Fitur
+
 - Register akun
 - Login akun
 - Melihat data akun
@@ -10,9 +11,11 @@ Project sederhana login dan register menggunakan Python.
 - Menu sederhana terminal
 
 ## Bahasa
+
 - Python
 
 ## Cara Menjalankan
+
 1. Buka terminal
 2. Masuk ke folder project
 3. Jalankan perintah:
