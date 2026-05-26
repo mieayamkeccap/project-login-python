@@ -19,3 +19,7 @@ Project sederhana login dan register menggunakan Python.
 
 ```bash
 python Tugas.py
+<<<<<<< HEAD
+=======
+```
+>>>>>>> c5861ac (Perbaiki README.md)
